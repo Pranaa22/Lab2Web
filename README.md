@@ -1,8 +1,8 @@
 # Lab2Web
-Tugas Pemrograman Web P3
-Pranaja Widyadhana Wardana
-312310194
-TI.23.A2
+Tugas Pemrograman Web P3<br>
+Pranaja Widyadhana Wardana<br>
+312310194<br>
+TI.23.A2<br>
 &lt;br&gt;
 anjayy 
 icikiwir
