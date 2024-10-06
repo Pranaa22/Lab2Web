@@ -12,4 +12,8 @@ dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul
 <img src="/no1.3.png" img> <br>
 <img src="/no1.4.png" img> <br>
 
+2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan 
+penjelasannya! <br>
+<img src="/no2.1.png" img> <br>
+
 
