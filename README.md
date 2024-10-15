@@ -4,7 +4,7 @@ Pranaja Widyadhana Wardana<br>
 312310194<br>
 TI.23.A2<br>
 
-Project Link : https://pranaa22.github.io/Lab2Web/ <br>
+[Visit site](https://pranaa22.github.io/Lab2Web/) <br>
 
 # Pertanyaan dan Tugas
 **1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS
